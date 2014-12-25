@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleDataExporter.Classes.SumImage">
+    <Position X="1.5" Y="0.5" Width="2.25" />
+    <NestedTypes>
+      <Delegate Name="SimpleDataExporter.Classes.SumImage.UpdateStatusEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\SumImage.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAAIAAAAAACAAAAAAAFQAAAAAAAAAAAQABAA=</HashCode>
+      <FileName>Classes\SumImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDataExporter.Classes.Transcripts">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAgAAAAAAAAAAIgAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\Transcripts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDataExporter.Classes.MailOperations">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SimpleDataExporter.Classes.MailOperations.UpdateStatusEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\MailOperations.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAgIAAAACAAAAAAAAAAAAABACAAAAAAACBBA=</HashCode>
+      <FileName>Classes\MailOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
